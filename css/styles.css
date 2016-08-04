@@ -1,0 +1,23 @@
+.page-header{
+  background-color: #0055A4;
+  margin-top: 0;
+}
+
+#flush{
+    margin-top: 0;
+}
+
+body{
+  background-color: pink;
+}
+
+
+ul a{
+  color: white;
+}
+
+#video{
+  height: 100%
+  border: solid;
+  padding: 1px;
+}
